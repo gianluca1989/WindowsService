@@ -1,0 +1,14 @@
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quartz_jobs.xml
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Release\netcoreapp2.0\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\PlatformCompat.Analyzers.settings
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Release\netcoreapp2.0\quarzApp.pdb

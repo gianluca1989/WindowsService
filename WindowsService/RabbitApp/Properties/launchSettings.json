@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "RabbitApp": {
+      "commandName": "Project"
+    }
+  }
+}

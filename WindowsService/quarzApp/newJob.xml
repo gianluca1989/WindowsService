@@ -1,0 +1,52 @@
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+
+  <schedule>
+
+    <job>
+      <name>NewJob</name>
+      <group>NewJobGroup</group>
+      <description>RecuperoDati</description>
+      <job-type>quarzApp.JobQueue, quarzApp</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+      <job-data-map>
+        <entry>
+          <key>key0</key>
+          <value>value0</value>
+        </entry>
+        <entry>
+          <key>key1</key>
+          <value>value1</value>
+        </entry>
+        <entry>
+          <key>key2</key>
+          <value>value2</value>
+        </entry>
+      </job-data-map>
+    </job>
+
+    <trigger>
+      <calendar-interval>
+        <name>triggerNewJob</name>
+        <group>simpleGroup</group>
+        <description>one call per minute starts</description>
+        <job-name>NewJob</job-name>
+        <job-group>NewJobGroup</job-group>
+        <start-time>1982-06-28T18:15:00.0Z</start-time>
+        <end-time>2099-05-04T18:13:51.0Z</end-time>
+        <misfire-instruction>SmartPolicy</misfire-instruction>
+        <repeat-interval>5</repeat-interval>
+        <repeat-interval-unit>Second</repeat-interval-unit>
+      </calendar-interval>
+    </trigger>
+
+  </schedule>
+
+</job-scheduling-data>-->

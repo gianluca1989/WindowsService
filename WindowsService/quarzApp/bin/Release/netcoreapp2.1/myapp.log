@@ -1,0 +1,1181 @@
+2018-11-08 10:47:15,112 [1] INFO Quartz.Impl.StdSchedulerFactory - Default Quartz.NET properties loaded from embedded resource file
+2018-11-08 10:47:15,272 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-08 10:47:15,410 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-08 10:47:15,532 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-08 10:47:15,533 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-08 10:47:15,538 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-08 10:47:15,539 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized
+2018-11-08 10:47:15,539 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-08 10:47:15,554 [1] INFO Quartz.Core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-11-08 10:47:15,562 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2018-11-08 10:47:15,585 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:15,600 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:47:15,615 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:15,699 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:47:15,759 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:47:16,325 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:47:16,365 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:47:25,558 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:47:25,559 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:47:25,559 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:25,570 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:47:25,599 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:47:25,602 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:47:35,558 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:47:35,559 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:47:35,559 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:35,568 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:47:35,619 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:47:35,625 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:47:45,559 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:47:45,559 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:47:45,560 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:45,566 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:47:45,617 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:47:45,629 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:47:55,558 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:47:55,559 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:47:55,559 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:47:55,562 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:47:55,608 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:47:55,618 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:48:05,562 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:48:05,563 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:48:05,563 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:48:05,574 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:48:05,640 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:48:05,656 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:48:15,558 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:48:15,559 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:48:15,560 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:48:15,570 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:48:15,589 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:48:15,596 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 11:42:06,604 [1] INFO Quartz.Impl.StdSchedulerFactory - Default Quartz.NET properties loaded from embedded resource file
+2018-11-08 11:42:06,714 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-08 11:42:06,801 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-08 11:42:06,873 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-08 11:42:06,875 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-08 11:42:06,881 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-08 11:42:06,882 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized
+2018-11-08 11:42:06,882 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-08 11:42:06,901 [1] INFO Quartz.Core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-11-08 11:42:06,907 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2018-11-08 11:42:06,941 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 11:42:06,959 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 11:42:06,974 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 11:42:07,054 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 11:42:07,092 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 11:42:07,352 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 11:42:07,388 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 11:42:16,907 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 11:42:16,907 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 11:42:16,908 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 11:42:16,913 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 11:42:16,941 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 11:42:16,947 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 11:42:26,905 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 11:42:26,906 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 11:42:26,907 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 11:42:26,911 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 11:42:26,947 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 11:42:26,964 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 11:42:36,909 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 11:42:36,909 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 11:42:36,910 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 11:42:36,913 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 11:42:36,948 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 11:42:36,955 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-11 17:48:40,059 [1] WARN Quartz.Simpl.TaskSchedulingThreadPool - Thread priority is no longer supported for thread pool, ignoring
+2018-11-11 17:48:40,094 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-11 17:48:40,114 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-11 17:48:40,141 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-11 17:48:40,143 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-11 17:48:40,146 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'ExampleDefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-11 17:48:40,148 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'ExampleDefaultQuartzScheduler' initialized
+2018-11-11 17:48:40,149 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-11 17:48:40,163 [1] INFO Quartz.Core.QuartzScheduler - Scheduler ExampleDefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-11-11 17:48:40,167 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2018-11-11 17:48:40,191 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-11 17:48:40,209 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-11 17:48:40,215 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-11 17:48:40,251 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-11 17:48:40,258 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-11 17:48:40,601 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-11 19:00:19,994 [1] WARN Quartz.Simpl.TaskSchedulingThreadPool - Thread priority is no longer supported for thread pool, ignoring
+2018-11-11 19:00:20,024 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-11 19:00:20,046 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-11 19:00:20,086 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-11 19:00:20,088 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-11 19:00:20,092 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'ExampleDefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-11 19:00:20,094 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'ExampleDefaultQuartzScheduler' initialized
+2018-11-11 19:00:20,094 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-11 19:00:20,108 [1] INFO Quartz.Core.QuartzScheduler - Scheduler ExampleDefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-11-11 19:00:20,113 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2018-11-11 19:00:20,134 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-11 19:00:20,151 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-11 19:00:20,161 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-11 19:00:20,201 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-11 19:00:20,210 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-11 19:00:20,557 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:32:48,124 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 14:32:48,298 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 14:32:48,480 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 14:32:48,487 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 14:32:48,495 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 14:32:48,504 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 14:32:48,508 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 14:32:48,513 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 14:32:48,571 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 14:32:49,101 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 14:32:49,102 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 14:32:49,103 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 14:32:49,103 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 14:32:49,103 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 14:32:49,103 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 14:32:49,103 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 14:32:49,105 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 14:32:49,115 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 14:32:49,130 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 14:32:49,166 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 14:32:49,286 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 14:32:49,298 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 14:32:49,359 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 14:32:49,404 [4] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 14:32:49,427 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:32:49,469 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:32:49,489 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:32:49,602 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:32:49,664 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:32:50,528 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:32:59,137 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:32:59,138 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:32:59,138 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:32:59,148 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:32:59,198 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:49:38,079 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 14:49:38,141 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 14:49:38,175 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 14:49:38,180 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 14:49:38,184 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 14:49:38,189 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 14:49:38,192 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 14:49:38,192 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 14:49:38,225 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 14:49:38,349 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 14:49:38,349 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 14:49:38,350 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 14:49:38,355 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 14:49:38,356 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 14:49:38,375 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 14:49:38,440 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 14:49:38,448 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 14:49:38,466 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 14:49:38,502 [6] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 14:49:38,517 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:49:38,552 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:49:38,569 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:49:38,641 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:49:38,660 [6] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:49:39,157 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:49:48,358 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:49:48,359 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:49:48,359 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:49:48,365 [6] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:49:48,397 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:50:09,302 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 14:50:09,481 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 14:50:09,591 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 14:50:09,598 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 14:50:09,605 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 14:50:09,614 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 14:50:09,619 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 14:50:09,619 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 14:50:09,702 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 14:50:10,046 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 14:50:10,047 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 14:50:10,047 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 14:50:10,047 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 14:50:10,048 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 14:50:10,048 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 14:50:10,048 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 14:50:10,048 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 14:50:10,053 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 14:50:10,055 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 14:50:10,065 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 14:50:10,139 [5] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 14:50:10,145 [5] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 14:50:10,182 [5] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 14:50:10,211 [5] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 14:50:10,229 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:50:10,260 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:50:10,276 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:50:10,343 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:50:10,401 [6] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:50:10,695 [6] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 14:50:10,751 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 14:50:42,761 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 14:50:42,917 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 14:50:43,113 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 14:50:43,125 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 14:50:43,134 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 14:50:43,143 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 14:50:43,153 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 14:50:43,153 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 14:50:43,207 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 14:50:43,491 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 14:50:43,491 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 14:50:43,492 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 14:50:43,498 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 14:50:43,499 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 14:50:43,512 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 14:50:43,596 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 14:50:43,608 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 14:50:43,629 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 14:50:43,661 [4] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 14:50:43,679 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:50:43,710 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 14:50:43,727 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 14:50:43,828 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 14:50:43,876 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 14:50:44,149 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 14:50:44,197 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 15:11:35,548 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 15:11:35,641 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 15:11:35,692 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 15:11:35,701 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 15:11:35,710 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 15:11:35,718 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 15:11:35,721 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 15:11:35,721 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 15:11:35,773 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 15:11:35,991 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 15:11:35,992 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 15:11:35,992 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 15:11:35,993 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 15:11:35,993 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 15:11:35,993 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 15:11:35,993 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 15:11:35,993 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 15:11:35,999 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 15:11:36,001 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 15:11:36,042 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 15:11:36,147 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 15:11:36,167 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 15:11:36,190 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 15:11:36,237 [6] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 15:11:36,284 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 15:11:36,317 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 15:11:36,337 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 15:11:36,416 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 15:11:36,436 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 15:11:36,643 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 15:11:36,680 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 15:11:40,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 15:11:40,002 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 15:11:40,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 15:11:40,008 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 15:11:40,045 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 15:11:40,055 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 15:11:50,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 15:11:50,003 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 15:11:50,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 15:11:50,008 [6] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 15:11:50,030 [6] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 15:11:50,034 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:34:18,493 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 16:34:18,553 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 16:34:18,628 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 16:34:18,634 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 16:34:18,638 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 16:34:18,644 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 16:34:18,647 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 16:34:18,647 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 16:34:18,688 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 16:34:18,933 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 16:34:18,934 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 16:34:18,935 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 16:34:18,942 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 16:34:18,944 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 16:34:18,973 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 16:34:19,049 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 16:34:19,055 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 16:34:19,088 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 16:34:19,123 [6] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 16:34:19,165 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:34:19,195 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:34:19,208 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:34:19,269 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:34:19,290 [6] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:34:19,596 [6] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:34:19,626 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:34:20,001 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:34:20,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:34:20,002 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:34:20,012 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:34:20,037 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:34:20,038 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:34:30,003 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:34:30,003 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:34:30,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:34:30,007 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:34:30,036 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:34:30,045 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:37:10,194 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 16:37:10,295 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 16:37:10,350 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 16:37:10,359 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 16:37:10,365 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 16:37:10,371 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 16:37:10,374 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 16:37:10,374 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 16:37:10,428 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: quartz_jobs.xml with systemId: quartz_jobs.xml
+2018-11-12 16:37:10,588 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 16:37:10,588 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 16:37:10,589 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 16:37:10,594 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 16:37:10,596 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 16:37:10,614 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 16:37:10,687 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 16:37:10,696 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 16:37:10,727 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 16:37:10,762 [6] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 16:37:10,792 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:37:10,819 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:37:10,837 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:37:10,891 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:37:10,911 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:37:11,094 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:37:11,134 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:37:20,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:37:20,003 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:37:20,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:37:20,013 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:37:20,031 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:37:20,032 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 16:37:30,001 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 16:37:30,002 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 16:37:30,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 16:37:30,006 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-12 16:37:30,044 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-12 16:37:30,045 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-12 17:45:19,481 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 17:45:19,586 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 17:45:19,653 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 17:45:19,656 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 17:45:19,662 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 17:45:19,667 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 17:45:19,669 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 17:45:19,670 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 17:45:19,703 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Release\netcoreapp2.1\quartz_jobs.xml with systemId: C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Release\netcoreapp2.1\quartz_jobs.xml
+2018-11-12 17:45:19,914 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 17:45:19,914 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 17:45:19,914 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 17:45:19,914 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 17:45:19,914 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 17:45:19,915 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 17:45:19,915 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 17:45:19,915 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 17:45:19,921 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 17:45:19,923 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 17:45:19,948 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 17:45:20,021 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 17:45:20,033 [6] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 17:45:20,056 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 17:45:20,091 [6] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 17:45:20,102 [1] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 17:45:20,152 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:45:20,180 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:45:20,197 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:45:20,251 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:45:30,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:45:30,003 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:45:30,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:45:40,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:45:40,002 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:45:40,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:45:50,001 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:45:50,002 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:45:50,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:46:00,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:46:00,014 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:47:38,956 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-12 17:47:39,081 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-12 17:47:39,161 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-12 17:47:39,167 [1] INFO Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2018-11-12 17:47:39,172 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-12 17:47:39,179 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'XmlConfiguredInstance' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-12 17:47:39,182 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'XmlConfiguredInstance' initialized
+2018-11-12 17:47:39,188 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-12 17:47:39,223 [1] INFO Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Release\netcoreapp2.1\quartz_jobs.xml with systemId: C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Release\netcoreapp2.1\quartz_jobs.xml
+2018-11-12 17:47:39,458 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2018-11-12 17:47:39,458 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2018-11-12 17:47:39,459 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2018-11-12 17:47:39,459 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2018-11-12 17:47:39,459 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2018-11-12 17:47:39,459 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2018-11-12 17:47:39,459 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2018-11-12 17:47:39,460 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2018-11-12 17:47:39,466 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'JobQueueGroup.JobQueue':  jobType: 'quarzApp.JobQueue persistJobDataAfterExecution: False concurrentExecutionDisallowed: False isDurable: True requestsRecovers: False
+2018-11-12 17:47:39,469 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2018-11-12 17:47:39,494 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'simpleGroup.trigger':  triggerClass: 'Quartz.Impl.Triggers.CalendarIntervalTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2018-11-12 17:47:39,596 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2018-11-12 17:47:39,604 [4] INFO Quartz.Xml.XMLSchedulingDataProcessor - Adding job: JobQueueGroup.JobQueue
+2018-11-12 17:47:39,623 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: JobQueueGroup.JobQueue with trigger: simpleGroup.trigger
+2018-11-12 17:47:39,661 [4] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 17:47:39,665 [1] INFO Quartz.Core.QuartzScheduler - Scheduler XmlConfiguredInstance_$_NON_CLUSTERED started.
+2018-11-12 17:47:39,712 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:47:39,745 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:47:39,760 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:47:39,832 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-12 17:47:40,002 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'JobQueueGroup.JobQueue', class=quarzApp.JobQueue
+2018-11-12 17:47:40,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-12 17:47:40,002 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobQueueGroup.JobQueue
+2018-11-13 12:49:54,273 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:49:54,683 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-11-13 12:49:55,031 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:49:55,032 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:49:55,031 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:49:55,034 [6] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:49:55,037 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:49:55,038 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:49:55,039 [7] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:49:55,040 [7] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:49:55,045 [6] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:00,000 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:00,001 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:00,014 [7] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:50:00,014 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:00,014 [7] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:00,015 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:00,048 [7] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-13 12:50:05,000 [13] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:05,003 [13] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:05,012 [7] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:10,000 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:10,001 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:10,003 [7] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:50:10,006 [7] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:10,012 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:10,031 [13] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:10,054 [7] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-13 12:50:15,000 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:15,003 [7] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:15,006 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:20,000 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:20,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:20,003 [7] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:50:20,011 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:20,012 [13] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:20,013 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:20,058 [13] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-13 12:50:25,000 [13] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:25,003 [13] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:25,006 [13] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:30,001 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:30,001 [13] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:30,003 [8] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:50:30,012 [8] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:30,012 [13] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:30,017 [13] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:35,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:35,003 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:35,005 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-11-13 12:50:40,000 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:40,001 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-11-13 12:50:40,003 [6] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-11-13 12:50:40,010 [6] INFO quarzApp.JobQueue - 
+Receive start
+2018-11-13 12:50:40,011 [7] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-11-13 12:50:40,031 [7] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 19:39:50,398 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:39:50,850 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:39:50,852 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:39:50,855 [1] ERROR quarzApp.topShelf.MyService - Eerror when starting the job
+Object reference not set to an instance of an object.
+2018-12-13 19:41:30,529 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:41:31,102 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:41:31,106 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:41:31,111 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:41:31,112 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:41:31,116 [1] ERROR quarzApp.topShelf.MyService - Eerror when starting the job
+Object reference not set to an instance of an object.
+2018-12-13 19:42:12,274 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:42:12,936 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:42:12,940 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:42:12,943 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:42:12,943 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:45:11,939 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:12,272 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:12,274 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:12,277 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:12,277 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:45:18,649 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:19,184 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:19,187 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:19,195 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:19,195 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:45:46,319 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:46,884 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:46,888 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:45:46,900 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:45:46,901 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:46:55,904 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:46:56,455 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:46:56,458 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:46:56,468 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:46:56,468 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 19:47:34,247 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:47:34,819 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:47:34,823 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 19:47:34,838 [1] ERROR quarzApp.topShelf.MyService - Error
+File named 'C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml' does not exist.
+2018-12-13 19:47:34,838 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 20:01:42,062 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:01:55,783 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:01:56,408 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:01:56,411 [1] INFO quarzApp.topShelf.MyService - 
+
+-------- num: 10 sec
+XmlConfiguredInstance
+------------
+2018-12-13 20:01:56,716 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 20:01:56,784 [10] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:01:56,784 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:01:56,785 [10] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:01:56,786 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:01:56,786 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:01:56,789 [7] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:01:56,954 [7] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:02:00,001 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:02:00,002 [10] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:02:00,002 [9] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:02:00,006 [7] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:02:00,006 [10] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:02:00,024 [10] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:02:00,045 [7] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:02:05,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:02:05,001 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:02:05,004 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:33,460 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:34,030 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:34,032 [1] INFO quarzApp.topShelf.MyService - 
+
+-------- num: 10 sec
+XmlConfiguredInstance
+------------
+2018-12-13 20:05:34,270 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 20:05:34,331 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:34,331 [11] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:34,331 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:05:34,332 [11] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:05:34,332 [10] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:34,336 [8] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:05:34,474 [8] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:05:35,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:35,001 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:05:35,004 [9] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:40,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:40,000 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:40,001 [8] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:05:40,004 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:05:40,012 [9] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:05:40,017 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:40,042 [9] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:05:45,001 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:45,003 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:05:45,017 [10] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:50,001 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:50,001 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:05:50,002 [6] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:05:50,004 [10] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:05:50,004 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:05:50,021 [9] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:05:50,044 [10] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:11:09,592 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:10,131 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 20:11:10,533 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:10,533 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:10,533 [7] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:11:10,534 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:11:10,535 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:11:10,537 [6] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:11:10,671 [6] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:11:15,001 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:15,004 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:11:15,009 [9] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:11:20,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:20,000 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:11:20,001 [8] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:11:20,005 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:11:20,014 [9] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:11:20,019 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:11:20,047 [9] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:20:13,503 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:14,003 [1] INFO quarzApp.topShelf.MyService - Scheduler start
+2018-12-13 20:20:14,323 [10] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:14,323 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:14,324 [10] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:20:14,324 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:20:14,325 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:20:14,330 [7] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:20:14,450 [7] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:20:15,000 [7] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:15,001 [7] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:20:15,004 [9] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:20:20,000 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:20,000 [6] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:20,001 [9] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:20:20,004 [6] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:20:20,013 [9] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:20:20,017 [6] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:20:20,059 [9] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:20:25,000 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:25,001 [9] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:20:25,003 [9] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:20:30,000 [9] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:30,000 [8] INFO quarzApp.JobQueue - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:20:30,001 [9] INFO quarzApp.JobQueue - 
+
+Start Task JobQueue
+
+
+2018-12-13 20:20:30,004 [8] INFO quarzApp.JobQueue - 
+
+Start Task NewJob
+
+
+2018-12-13 20:20:30,012 [9] INFO quarzApp.JobQueue - 
+Receive start
+2018-12-13 20:20:30,017 [8] INFO quarzApp.JobQueue - 
+
+-------------------------------
+---------New Job Work--------
+---------------------------------
+
+
+2018-12-13 20:20:30,044 [9] INFO quarzApp.JobQueue - 
+Queue empty
+2018-12-13 20:21:10,272 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1
+2018-12-13 20:21:25,528 [1] INFO quarzApp.topShelf.MyService - Directory: C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Release\netcoreapp2.1

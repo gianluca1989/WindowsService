@@ -1,0 +1,12 @@
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\RabbitApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\RabbitApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\RabbitApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\RabbitApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\bin\Debug\netcoreapp2.0\RabbitApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.csprojAssemblyReference.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\RabbitApp\RabbitApp\obj\Debug\netcoreapp2.0\RabbitApp.pdb

@@ -1,0 +1,180 @@
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\source\repos\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Lavoro\Lavoro 7-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Nuova cartella\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Progetto\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll.config
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Progetto modificato no\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+F:\Lavoro\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+F:\Lavoro\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consegna\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\newJob.xml
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\newJob.xml
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\newJob.xml
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp - Copia\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\Consega3\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\newJob.xml
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csprojAssemblyReference.cache
+C:\Users\gianluca.virdis\Desktop\13-11-2018\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\log4net.config
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\newJob.xml
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quartz_jobs.xml
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.deps.json
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.runtimeconfig.dev.json
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\bin\Debug\netcoreapp2.1\quarzApp.pdb
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\PlatformCompat.Analyzers.settings
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.dll
+C:\Users\gianl\OneDrive\Desktop\OraleFinsa\ServizioWindows\quarzApp\quarzApp\obj\Debug\netcoreapp2.1\quarzApp.pdb

@@ -1,0 +1,42 @@
+2018-11-08 10:18:37,775 [1] INFO Quartz.Impl.StdSchedulerFactory - Default Quartz.NET properties loaded from embedded resource file
+2018-11-08 10:18:37,932 [1] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2018-11-08 10:18:37,985 [1] INFO Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2018-11-08 10:18:38,040 [1] INFO Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2018-11-08 10:18:38,042 [1] INFO Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2018-11-08 10:18:38,048 [1] INFO Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-11-08 10:18:38,049 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized
+2018-11-08 10:18:38,050 [1] INFO Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2018-11-08 10:18:38,083 [1] INFO Quartz.Core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-11-08 10:18:38,092 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2018-11-08 10:18:38,121 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:18:38,137 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:18:38,150 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:18:38,333 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:18:38,414 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:18:38,685 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:18:38,708 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:18:48,100 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:18:48,112 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:18:48,112 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:18:48,112 [5] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:18:48,161 [5] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:18:48,188 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2018-11-08 10:18:58,091 [3] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'DEFAULT.JobQueue', class=quarzApp.JobQueue
+2018-11-08 10:18:58,091 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job DEFAULT.JobQueue
+2018-11-08 10:18:58,091 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2018-11-08 10:18:58,093 [4] INFO quarzApp.JobQueue - 
+Recive start
+2018-11-08 10:18:58,104 [4] INFO quarzApp.JobQueue - 
+Queue empty
+2018-11-08 10:18:58,105 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
